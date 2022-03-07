@@ -1,2 +1,1 @@
-# meldingen
-Een meldingen script voor fivem
+start jesse
